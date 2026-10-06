@@ -18,18 +18,18 @@ The analysis uses SQL queries to explore sales performance, identify top- and lo
 ## SQL Concepts Used
 The project demonstrates practical application of several SQL concepts, including:
 
-SELECT
-WHERE
-GROUP BY
-HAVING
-ORDER BY
-JOIN
-CASE
-Subqueries
-CTEs
-Aggregate Functions
-Window Functions
-Date Functions
+SELECT,
+WHERE,
+GROUP BY,
+HAVING,
+ORDER BY,
+JOIN,
+CASE,
+Subqueries,
+CTEs,
+Aggregate Functions,
+Window Functions,
+Date Functions.
 
 Common aggregate functions such as SUM(), COUNT(), AVG(), MIN(), and MAX() were used to summarize and analyze the retail data.
 
